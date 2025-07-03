@@ -55,7 +55,7 @@
 
 ## 📫 Get in Touch
 - 📧 Email: mohamed.amr25@msa.edu.eg
-- 💼 LinkedIn: [linkedin.com/in/mohamedamr](https://linkedin.com/in/mohamedamr](https://www.linkedin.com/in/mohamed-amr-4228b225a/)
+- 💼 LinkedIn: www.linkedin.com/in/mohamed-amr-4228b225a
 - 🧑‍💻 GitHub: [github.com/mohamedamr](https://github.com/mohamedamr)
 
 > Always open to new opportunities, collaborations, and smart tech ideas!
